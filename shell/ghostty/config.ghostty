@@ -25,6 +25,7 @@ scrollback-limit = 25000000
 shell-integration = detect
 mouse-hide-while-typing = true
 copy-on-select = clipboard
+split-divider-color = #d0afff
 
 # Terminal Size
 window-width = 120
