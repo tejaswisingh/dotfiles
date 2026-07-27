@@ -7,7 +7,7 @@ theme = dark:Catppuccin Mocha,light:Catppuccin Frappe
 window-theme = system
 
 # Typography
-font-family = BlexMono Nerd Font
+font-family = FiraCode Nerd Font Propo
 font-size = 12
 font-thicken = true
 
